@@ -1,3 +1,5 @@
+# This is a basic workflow to help you get started with Actions
+
 name: CI
 
 # Controls when the workflow will run
@@ -32,14 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-```
-
-- Click _Commit changes_ - found in the _upper right corner_ of the screen - and commit to the
-  `main` branch
-- Go to the _Actions_ tab and see the workflow running
-- Click on the workflow and see the output of the workflow
-
-## Summary
-
-Congratulations! You have now created your first workflow!
-It does not do much, but in the next exercise we will start building on it.
